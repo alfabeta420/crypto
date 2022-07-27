@@ -1,6 +1,6 @@
 # Crypto price checker
 <p align="center">
-    <img src="https://i.imgur.com/DwVIgrh.gif">
+    <img src="https://i.imgur.com/DwVIgrh.gif"><br>
     This script shows live crypto prices!<br>
     <img src="https://i.imgur.com/DwVIgrh.gif"><br>
     Crypto list:<br>
